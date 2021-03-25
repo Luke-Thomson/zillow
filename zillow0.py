@@ -11,8 +11,8 @@ from helium import *  # selenium for interacting with browser window
 from selenium.webdriver.chrome.options import Options  # start helium with user agent
 
 # zillow sign in info
-email = "capt.kross02@gmail.com"
-password = "T?nxV9.83xed/R#"
+email = "YOUR EMAIL HERE"
+password = "YOUR PASSWORD HERE"
 
 # starts chrome with user agent
 opts = Options()
